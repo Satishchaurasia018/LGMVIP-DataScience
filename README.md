@@ -10,3 +10,7 @@ Task_2: Iris_Data_Decision_Tree
 
 Dataset Link:  https://www.kaggle.com/arshid/iris-flower-dataset
 
+Task_3: Exploratory Data Analysis on Dataset - Terrorism 
+
+Dataset Link: https://bit.ly/2TK5Xn5
+
