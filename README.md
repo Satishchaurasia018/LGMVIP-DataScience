@@ -14,3 +14,6 @@ Task_3: Exploratory Data Analysis on Dataset - Terrorism
 
 Dataset Link: https://bit.ly/2TK5Xn5
 
+Task_4: Pencil Sketch with Python
+
+
